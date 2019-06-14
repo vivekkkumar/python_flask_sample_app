@@ -1,5 +1,5 @@
 # python_flask_sample_app
-A python app deployed in AWS.
+A python web app deployed in AWS.
 
 This uses the Dynamo DB for Creating and reading records. 
 
